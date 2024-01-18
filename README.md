@@ -14,9 +14,10 @@
 <a href="https://twitter.com/kanishk39178548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishkasd" height="30" width="40" /></a>
 </p>
 
+<div>
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br>
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkasd&show_icons=true&locale=en&layout=compact" alt="kanishkasd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkasd&show_icons=true&locale=en" alt="kanishkasd" /></p>
