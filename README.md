@@ -3,9 +3,11 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-[![](https://visitcount.itsvg.in/api?id=kanishkasd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="left"> <a href="https://twitter.com/kanishk39178548" target="blank"><img src="https://img.shields.io/twitter/follow/kanishkasd?logo=twitter&style=for-the-badge" alt="kanishkasd" /></a> </p>
+
+[![](https://visitcount.itsvg.in/api?id=kanishkasd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **React js**
 
