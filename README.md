@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanishk39178548" target="blank"><img src="https://img.shields.io/twitter/follow/kanishkasd?logo=twitter&style=for-the-badge" alt="kanishkasd" /></a> </p>
 
-[![](https://visitcount.itsvg.in/api?id=kanishkasd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 🌱 I’m currently learning **React js**
 
@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkasd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+[![](https://visitcount.itsvg.in/api?id=kanishkasd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
