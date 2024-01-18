@@ -1,4 +1,4 @@
-[![An image of @kanishkasd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishkasd)](https://holopin.io/@kanishkasd)
+asd)
 <h1 align="center">Hi 👋, I'm Kanishka Sandaruwan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
@@ -15,11 +15,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+[![My Skills](https://holopin.me/badges/kanishkasd)](https://holopin.io/@kanishkasd)
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkasd&show_icons=true&locale=en&layout=compact" alt="kanishkasd" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkasd&show_icons=true&locale=en&layout=compact" alt="kanishkasd" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkasd&show_icons=true&locale=en" alt="kanishkasd" /></p>
 
